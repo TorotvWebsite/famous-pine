@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Build. Learn. Create!
-    subtitle: Conference for Creative People
+    subtitle: The confrence for Makers Everywhere
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
