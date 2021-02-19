@@ -20,9 +20,9 @@ sections:
     grid_items:
       - title: 3 Days
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: >
+          Friday, Saturday and Sunday. Watch on-demand, Live, and pre-recorded
+          content from Makers Everywhere!
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
